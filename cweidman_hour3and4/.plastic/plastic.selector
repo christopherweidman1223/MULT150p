@@ -1,4 +1,0 @@
-repository "cweidman_hour3and4 2026-09-07_09-17-11/cweidman_hour3and4@20067624504503@cloud"
-  path "/"
-    br "/main"
-    co "/main"
